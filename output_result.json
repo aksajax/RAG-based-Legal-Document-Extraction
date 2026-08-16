@@ -1,0 +1,31 @@
+{
+  "sub_registrar_office": "Mumbai Sub Registrar",
+  "district": "Mumbai",
+  "loan_account_no": "LA12345",
+  "flat_no": "101",
+  "plot_no_and_address": "Plot 1, Address Line 1",
+  "total_area_sq_m": "1000",
+  "boundaries": {
+    "east": "Highway",
+    "west": "Main Road",
+    "north": "Park",
+    "south": "River"
+  },
+  "present_owners": "John Doe and Jane Smith",
+  "ownership_flow_chain": [
+    {
+      "step_number": 1,
+      "owner_name": "John Doe",
+      "transfer_type": "Sale Deed",
+      "deed_details": "Deed 123, 2020",
+      "share_percentage": "100%"
+    },
+    {
+      "step_number": 2,
+      "owner_name": "Jane Smith",
+      "transfer_type": "Co-Ownership Deed",
+      "deed_details": "Deed 456, 2022",
+      "share_percentage": "50%"
+    }
+  ]
+}
