@@ -1,11 +1,3 @@
-Yes. I understand the project flow now. This is **not a generic RAG chatbot**; it is a **legal-document extraction + title-chain reconstruction pipeline**, where RAG/LLM processing is used after PDF/OCR extraction to produce structured legal data.
-
-A professional README should therefore emphasize:
-
-**PDF → Text/OCR → Document Processing → Legal Entity Extraction → LLM Structured Extraction → Ownership/Title Chain Reconstruction → Pydantic Validation → JSON/UI**
-
-Here is the polished `README.md` in the same professional format you preferred:
-
 # ⚖️ RAG-based Legal Document Extraction & Title Chain Parser
 
 <div align="center">
