@@ -1,7 +1,3 @@
-<img width="1355" height="680" alt="Screenshot 2026-08-16 184243" src="https://github.com/user-attachments/assets/245c587d-305a-4561-a3fb-77345558eb18" />
-<img width="1365" height="679" alt="Screenshot 2026-08-16 184321" src="https://github.com/user-attachments/assets/7f7d1f36-3a74-4287-a53e-1bce50ba1878" />
-<img width="1350" height="487" alt="Screenshot 2026-08-16 184211" src="https://github.com/user-attachments/assets/cb3ce325-76fa-4ca2-9ae3-9087dabf4b22" />
-<img width="1360" height="685" alt="Screenshot 2026-08-16 184154" src="https://github.com/user-attachments/assets/6b7ce74c-358d-49f5-8c73-97474957e8a2" />
 # ⚖️ RAG-based Legal Document Extraction & Title Chain Parser
 
 <div align="center">
