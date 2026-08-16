@@ -1,3 +1,7 @@
+<img width="1355" height="680" alt="Screenshot 2026-08-16 184243" src="https://github.com/user-attachments/assets/245c587d-305a-4561-a3fb-77345558eb18" />
+<img width="1365" height="679" alt="Screenshot 2026-08-16 184321" src="https://github.com/user-attachments/assets/7f7d1f36-3a74-4287-a53e-1bce50ba1878" />
+<img width="1350" height="487" alt="Screenshot 2026-08-16 184211" src="https://github.com/user-attachments/assets/cb3ce325-76fa-4ca2-9ae3-9087dabf4b22" />
+<img width="1360" height="685" alt="Screenshot 2026-08-16 184154" src="https://github.com/user-attachments/assets/6b7ce74c-358d-49f5-8c73-97474957e8a2" />
 # ⚖️ RAG-based Legal Document Extraction & Title Chain Parser
 
 <div align="center">
@@ -58,6 +62,9 @@ Supported approaches include:
 This allows the pipeline to process documents that do not contain machine-readable text.
 
 ---
+<img width="1360" height="685" alt="Screenshot 2026-08-16 184154" src="https://github.com/user-attachments/assets/c5fdd73f-e61e-4d00-9941-1fa995666736" />
+<img width="1350" height="487" alt="Screenshot 2026-08-16 184211" src="https://github.com/user-attachments/assets/05ba0cb6-debc-4c9b-b68a-59d7e8090d57" />
+
 
 ### 🧠 Legal Entity Extraction
 
@@ -283,6 +290,8 @@ Validated JSON
 The LLM is responsible for interpreting legal-language patterns and identifying relationships between owners, deeds, transfers, and property information.
 
 ---
+<img width="1355" height="680" alt="Screenshot 2026-08-16 184243" src="https://github.com/user-attachments/assets/4bc1ed7a-1ad3-48fa-a00a-bfa8ca20c481" />
+<img width="1365" height="679" alt="Screenshot 2026-08-16 184321" src="https://github.com/user-attachments/assets/569189b1-d326-4f37-8874-fcb3b786151e" />
 
 # 🔗 Title Chain Processing
 
